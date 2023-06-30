@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G1
+- 👋 Hi, I’m G1
 - 👀 I’m interested in electronics, electrical, robotics and microcontrollers, soldering, such hobby
  electronics
 - 📖 I’m currently learning programming on advanced level
